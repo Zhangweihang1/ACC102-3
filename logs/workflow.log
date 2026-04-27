@@ -1,0 +1,212 @@
+[2026-04-23 16:05:04] Universe placeholder written to C:\Users\38730\Desktop\ACC102\data\raw\universe_int_20260423.csv
+[2026-04-23 16:12:04] Universe built with 150 rows at C:\Users\38730\Desktop\ACC102\data\raw\universe_int_20260423.csv
+[2026-04-23 16:17:59] Price fetched for 300308.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300308.SZ_20260423.csv
+[2026-04-23 16:18:02] Price fetched for 300502.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300502.SZ_20260423.csv
+[2026-04-23 16:18:03] Price fetched for 002384.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002384.SZ_20260423.csv
+[2026-04-23 16:18:06] Price fetched for 300394.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300394.SZ_20260423.csv
+[2026-04-23 16:18:08] Price fetched for 601138.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_601138.SH_20260423.csv
+[2026-04-23 16:19:54] Price panel built -> C:\Users\38730\Desktop\ACC102\data\clean\price_panel_int_20260423.csv
+[2026-04-23 16:20:11] Target panel built -> C:\Users\38730\Desktop\ACC102\data\feature_store\target_panel_int_20260423.csv
+[2026-04-23 16:21:38] Feature panel built -> C:\Users\38730\Desktop\ACC102\data\feature_store\feature_panel_int_20260423.csv
+[2026-04-23 16:21:40] Baseline model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\baseline_model_summary_int_20260423.json
+[2026-04-23 16:24:41] Boosted model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\boosted_model_summary_int_20260423.json
+[2026-04-23 16:24:51] Model comparison built -> C:\Users\38730\Desktop\ACC102\data\model_output\model_comparison_int_20260423.json
+[2026-04-23 16:34:42] Price fetched (sample) for 300308.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300308.SZ_20260423.csv
+[2026-04-23 16:38:13] Price fetched (full) for 300308.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300308.SZ_20260423.csv
+[2026-04-23 16:38:14] Price fetched (full) for 300502.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300502.SZ_20260423.csv
+[2026-04-23 16:38:16] Price fetched (full) for 002384.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002384.SZ_20260423.csv
+[2026-04-23 16:38:18] Price fetched (full) for 300394.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300394.SZ_20260423.csv
+[2026-04-23 16:38:20] Price fetched (full) for 601138.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_601138.SH_20260423.csv
+[2026-04-23 16:38:22] Price fetched (full) for 600487.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600487.SH_20260423.csv
+[2026-04-23 16:38:24] Price fetched (full) for 300476.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300476.SZ_20260423.csv
+[2026-04-23 16:38:26] Price fetched (full) for 002475.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002475.SZ_20260423.csv
+[2026-04-23 16:38:28] Price fetched (full) for 300750.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300750.SZ_20260423.csv
+[2026-04-23 16:38:31] Price fetched (full) for 002281.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002281.SZ_20260423.csv
+[2026-04-23 16:38:33] Price fetched (full) for 300058.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300058.SZ_20260423.csv
+[2026-04-23 16:38:35] Price fetched (full) for 603986.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_603986.SH_20260423.csv
+[2026-04-23 16:38:37] Price fetched (full) for 002428.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002428.SZ_20260423.csv
+[2026-04-23 16:38:40] Price fetched (full) for 601899.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_601899.SH_20260423.csv
+[2026-04-23 16:38:42] Price fetched (full) for 688525.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688525.SH_20260423.csv
+[2026-04-23 16:38:44] Price fetched (full) for 000988.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_000988.SZ_20260423.csv
+[2026-04-23 16:38:46] Price fetched (full) for 600105.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600105.SH_20260423.csv
+[2026-04-23 16:38:48] Price fetched (full) for 001309.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_001309.SZ_20260423.csv
+[2026-04-23 16:38:50] Price fetched (full) for 002463.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002463.SZ_20260423.csv
+[2026-04-23 16:38:52] Price fetched (full) for 600118.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600118.SH_20260423.csv
+[2026-04-23 16:38:55] Price fetched (full) for 300136.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300136.SZ_20260423.csv
+[2026-04-23 16:38:57] Price fetched (full) for 688256.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688256.SH_20260423.csv
+[2026-04-23 16:39:00] Price fetched (full) for 300857.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300857.SZ_20260423.csv
+[2026-04-23 16:39:03] Price fetched (full) for 688008.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688008.SH_20260423.csv
+[2026-04-23 16:39:05] Price fetched (full) for 000938.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_000938.SZ_20260423.csv
+[2026-04-23 16:39:08] Price fetched (full) for 600522.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600522.SH_20260423.csv
+[2026-04-23 16:39:10] Price fetched (full) for 688041.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688041.SH_20260423.csv
+[2026-04-23 16:39:12] Price fetched (full) for 002837.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002837.SZ_20260423.csv
+[2026-04-23 16:39:15] Price fetched (full) for 600150.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600150.SH_20260423.csv
+[2026-04-23 16:39:17] Price fetched (full) for 300274.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300274.SZ_20260423.csv
+[2026-04-23 16:39:19] Price fetched (full) for 601869.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_601869.SH_20260423.csv
+[2026-04-23 16:39:21] Price fetched (full) for 600703.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600703.SH_20260423.csv
+[2026-04-23 16:39:24] Price fetched (full) for 300620.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300620.SZ_20260423.csv
+[2026-04-23 16:39:26] Price fetched (full) for 603083.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_603083.SH_20260423.csv
+[2026-04-23 16:39:28] Price fetched (full) for 600111.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600111.SH_20260423.csv
+[2026-04-23 16:39:31] Price fetched (full) for 600330.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600330.SH_20260423.csv
+[2026-04-23 16:39:33] Price fetched (full) for 002361.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002361.SZ_20260423.csv
+[2026-04-23 16:39:34] Price fetched (full) for 300442.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300442.SZ_20260423.csv
+[2026-04-23 16:39:37] Price fetched (full) for 300456.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300456.SZ_20260423.csv
+[2026-04-23 16:39:39] Price fetched (full) for 301308.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_301308.SZ_20260423.csv
+[2026-04-23 16:39:41] Price fetched (full) for 688048.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688048.SH_20260423.csv
+[2026-04-23 16:39:44] Price fetched (full) for 300395.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300395.SZ_20260423.csv
+[2026-04-23 16:39:47] Price fetched (full) for 600498.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600498.SH_20260423.csv
+[2026-04-23 16:39:49] Price fetched (full) for 002008.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002008.SZ_20260423.csv
+[2026-04-23 16:39:51] Price fetched (full) for 002149.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002149.SZ_20260423.csv
+[2026-04-23 16:39:53] Price fetched (full) for 002709.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002709.SZ_20260423.csv
+[2026-04-23 16:39:55] Price fetched (full) for 300548.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300548.SZ_20260423.csv
+[2026-04-23 16:39:59] Price fetched (full) for 600875.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600875.SH_20260423.csv
+[2026-04-23 16:40:01] Price fetched (full) for 688820.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688820.SH_20260423.csv
+[2026-04-23 16:40:02] Price fetched (full) for 300342.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300342.SZ_20260423.csv
+[2026-04-23 16:40:05] Price fetched (full) for 688313.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688313.SH_20260423.csv
+[2026-04-23 16:40:07] Price fetched (full) for 000338.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_000338.SZ_20260423.csv
+[2026-04-23 16:40:07] Feature panel built -> C:\Users\38730\Desktop\ACC102\data\feature_store\feature_panel_int_20260423.csv
+[2026-04-23 16:40:08] Fund flow fetched for 002384.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\fund_flow_individual\fund_flow_individual_int_002384.SZ_20260423.csv
+[2026-04-23 16:40:09] Fund flow fetched for 300308.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\fund_flow_individual\fund_flow_individual_int_300308.SZ_20260423.csv
+[2026-04-23 16:40:09] Price fetched (full) for 688521.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688521.SH_20260423.csv
+[2026-04-23 16:40:09] Fund flow fetched for 300394.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\fund_flow_individual\fund_flow_individual_int_300394.SZ_20260423.csv
+[2026-04-23 16:40:10] Fund flow fetched for 300502.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\fund_flow_individual\fund_flow_individual_int_300502.SZ_20260423.csv
+[2026-04-23 16:40:11] Fund flow fetched for 601138.SH -> C:\Users\38730\Desktop\ACC102\data\raw\fund_flow_individual\fund_flow_individual_int_601138.SH_20260423.csv
+[2026-04-23 16:40:12] Price fetched (full) for 688195.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688195.SH_20260423.csv
+[2026-04-23 16:40:14] Price fetched (full) for 002466.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002466.SZ_20260423.csv
+[2026-04-23 16:40:17] Price fetched (full) for 603019.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_603019.SH_20260423.csv
+[2026-04-23 16:40:19] Price fetched (full) for 688498.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688498.SH_20260423.csv
+[2026-04-23 16:40:21] Feature panel built -> C:\Users\38730\Desktop\ACC102\data\feature_store\feature_panel_int_20260423.csv
+[2026-04-23 16:40:21] Price fetched (full) for 603228.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_603228.SH_20260423.csv
+[2026-04-23 16:40:24] Price fetched (full) for 300475.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300475.SZ_20260423.csv
+[2026-04-23 16:40:26] Price fetched (full) for 601778.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_601778.SH_20260423.csv
+[2026-04-23 16:40:28] Baseline model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\baseline_model_summary_int_20260423.json
+[2026-04-23 16:40:28] Price fetched (full) for 600879.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600879.SH_20260423.csv
+[2026-04-23 16:40:30] Price fetched (full) for 601698.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_601698.SH_20260423.csv
+[2026-04-23 16:40:30] Boosted model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\boosted_model_summary_int_20260423.json
+[2026-04-23 16:40:32] Price fetched (full) for 600183.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600183.SH_20260423.csv
+[2026-04-23 16:40:34] Price fetched (full) for 300661.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300661.SZ_20260423.csv
+[2026-04-23 16:40:36] Price fetched (full) for 600276.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600276.SH_20260423.csv
+[2026-04-23 16:40:37] Model comparison built -> C:\Users\38730\Desktop\ACC102\data\model_output\model_comparison_int_20260423.json
+[2026-04-23 16:40:38] Price fetched (full) for 002565.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002565.SZ_20260423.csv
+[2026-04-23 16:40:40] Price fetched (full) for 600176.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600176.SH_20260423.csv
+[2026-04-23 16:40:42] Price fetched (full) for 600089.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600089.SH_20260423.csv
+[2026-04-23 16:40:44] Price fetched (full) for 600519.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600519.SH_20260423.csv
+[2026-04-23 16:40:46] Price fetched (full) for 603799.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_603799.SH_20260423.csv
+[2026-04-23 16:40:48] Price fetched (full) for 688205.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688205.SH_20260423.csv
+[2026-04-23 16:40:51] Price fetched (full) for 300014.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300014.SZ_20260423.csv
+[2026-04-23 16:40:53] Price fetched (full) for 300033.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300033.SZ_20260423.csv
+[2026-04-23 16:40:55] Price fetched (full) for 002938.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002938.SZ_20260423.csv
+[2026-04-23 16:40:57] Price fetched (full) for 000657.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_000657.SZ_20260423.csv
+[2026-04-23 16:40:59] Price fetched (full) for 002050.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002050.SZ_20260423.csv
+[2026-04-23 16:41:01] Price fetched (full) for 300757.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300757.SZ_20260423.csv
+[2026-04-23 16:41:03] Price fetched (full) for 002261.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002261.SZ_20260423.csv
+[2026-04-23 16:41:06] Price fetched (full) for 000977.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_000977.SZ_20260423.csv
+[2026-04-23 16:41:08] Price fetched (full) for 603993.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_603993.SH_20260423.csv
+[2026-04-23 16:41:10] Price fetched (full) for 002460.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002460.SZ_20260423.csv
+[2026-04-23 16:41:12] Price fetched (full) for 603629.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_603629.SH_20260423.csv
+[2026-04-23 16:41:15] Price fetched (full) for 300390.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300390.SZ_20260423.csv
+[2026-04-23 16:41:17] Price fetched (full) for 601179.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_601179.SH_20260423.csv
+[2026-04-23 16:41:19] Price fetched (full) for 000960.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_000960.SZ_20260423.csv
+[2026-04-23 16:41:20] Price fetched (full) for 000063.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_000063.SZ_20260423.csv
+[2026-04-23 16:41:23] Price fetched (full) for 002594.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002594.SZ_20260423.csv
+[2026-04-23 16:41:25] Price fetched (full) for 002429.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002429.SZ_20260423.csv
+[2026-04-23 16:41:27] Price fetched (full) for 600549.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600549.SH_20260423.csv
+[2026-04-23 16:41:28] Price fetched (full) for 688981.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688981.SH_20260423.csv
+[2026-04-23 16:41:30] Price fetched (full) for 002297.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002297.SZ_20260423.csv
+[2026-04-23 16:41:32] Price fetched (full) for 300017.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300017.SZ_20260423.csv
+[2026-04-23 16:41:35] Price fetched (full) for 300059.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300059.SZ_20260423.csv
+[2026-04-23 16:41:37] Price fetched (full) for 002371.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002371.SZ_20260423.csv
+[2026-04-23 16:41:40] Price fetched (full) for 002015.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002015.SZ_20260423.csv
+[2026-04-23 16:41:42] Price fetched (full) for 600415.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600415.SH_20260423.csv
+[2026-04-23 16:41:45] Price fetched (full) for 301526.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_301526.SZ_20260423.csv
+[2026-04-23 16:41:48] Price fetched (full) for 002580.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002580.SZ_20260423.csv
+[2026-04-23 16:41:50] Price fetched (full) for 301396.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_301396.SZ_20260423.csv
+[2026-04-23 16:41:52] Price fetched (full) for 300570.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300570.SZ_20260423.csv
+[2026-04-23 16:41:55] Price fetched (full) for 600961.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600961.SH_20260423.csv
+[2026-04-23 16:41:57] Price fetched (full) for 300782.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300782.SZ_20260423.csv
+[2026-04-23 16:41:59] Price fetched (full) for 001896.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_001896.SZ_20260423.csv
+[2026-04-23 16:42:01] Price fetched (full) for 600410.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600410.SH_20260423.csv
+[2026-04-23 16:42:04] Price fetched (full) for 002202.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002202.SZ_20260423.csv
+[2026-04-23 16:42:06] Price fetched (full) for 002342.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002342.SZ_20260423.csv
+[2026-04-23 16:42:08] Price fetched (full) for 002222.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002222.SZ_20260423.csv
+[2026-04-23 16:42:10] Price fetched (full) for 002080.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002080.SZ_20260423.csv
+[2026-04-23 16:42:13] Price fetched (full) for 300450.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300450.SZ_20260423.csv
+[2026-04-23 16:42:15] Price fetched (full) for 000066.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_000066.SZ_20260423.csv
+[2026-04-23 16:42:17] Price fetched (full) for 600482.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600482.SH_20260423.csv
+[2026-04-23 16:42:20] Price fetched (full) for 600821.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600821.SH_20260423.csv
+[2026-04-23 16:42:22] Price fetched (full) for 002812.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002812.SZ_20260423.csv
+[2026-04-23 16:42:24] Price fetched (full) for 601318.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_601318.SH_20260423.csv
+[2026-04-23 16:42:27] Price fetched (full) for 000547.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_000547.SZ_20260423.csv
+[2026-04-23 16:42:29] Price fetched (full) for 601127.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_601127.SH_20260423.csv
+[2026-04-23 16:42:32] Price fetched (full) for 002156.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002156.SZ_20260423.csv
+[2026-04-23 16:42:34] Price fetched (full) for 600989.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600989.SH_20260423.csv
+[2026-04-23 16:42:36] Price fetched (full) for 688012.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688012.SH_20260423.csv
+[2026-04-23 16:42:39] Price fetched (full) for 001267.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_001267.SZ_20260423.csv
+[2026-04-23 16:42:41] Price fetched (full) for 002407.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002407.SZ_20260423.csv
+[2026-04-23 16:42:43] Price fetched (full) for 002432.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002432.SZ_20260423.csv
+[2026-04-23 16:42:45] Price fetched (full) for 601016.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_601016.SH_20260423.csv
+[2026-04-23 16:42:47] Price fetched (full) for 002916.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002916.SZ_20260423.csv
+[2026-04-23 16:42:49] Price fetched (full) for 600396.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600396.SH_20260423.csv
+[2026-04-23 16:42:52] Price fetched (full) for 600986.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600986.SH_20260423.csv
+[2026-04-23 16:42:54] Price fetched (full) for 002273.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002273.SZ_20260423.csv
+[2026-04-23 16:42:56] Price fetched (full) for 002716.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002716.SZ_20260423.csv
+[2026-04-23 16:42:58] Price fetched (full) for 603259.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_603259.SH_20260423.csv
+[2026-04-23 16:43:01] Price fetched (full) for 600103.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600103.SH_20260423.csv
+[2026-04-23 16:43:03] Price fetched (full) for 002491.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002491.SZ_20260423.csv
+[2026-04-23 16:43:06] Price fetched (full) for 000559.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_000559.SZ_20260423.csv
+[2026-04-23 16:43:08] Price fetched (full) for 301205.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_301205.SZ_20260423.csv
+[2026-04-23 16:43:10] Price fetched (full) for 600893.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600893.SH_20260423.csv
+[2026-04-23 16:43:12] Price fetched (full) for 002364.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002364.SZ_20260423.csv
+[2026-04-23 16:43:14] Price fetched (full) for 000426.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_000426.SZ_20260423.csv
+[2026-04-23 16:43:16] Price fetched (full) for 603308.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_603308.SH_20260423.csv
+[2026-04-23 16:43:19] Price fetched (full) for 002624.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002624.SZ_20260423.csv
+[2026-04-23 16:43:21] Price fetched (full) for 688629.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688629.SH_20260423.csv
+[2026-04-23 16:43:23] Price fetched (full) for 603920.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_603920.SH_20260423.csv
+[2026-04-23 16:43:25] Price fetched (full) for 002353.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002353.SZ_20260423.csv
+[2026-04-23 16:43:28] Price fetched (full) for 002436.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_002436.SZ_20260423.csv
+[2026-04-23 16:43:30] Price fetched (full) for 688158.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_688158.SH_20260423.csv
+[2026-04-23 16:43:32] Price fetched (full) for 603601.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_603601.SH_20260423.csv
+[2026-04-23 16:43:35] Price fetched (full) for 600392.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600392.SH_20260423.csv
+[2026-04-23 16:43:37] Price fetched (full) for 600010.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600010.SH_20260423.csv
+[2026-04-23 16:43:39] Price fetched (full) for 603538.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_603538.SH_20260423.csv
+[2026-04-23 16:43:42] Price fetched (full) for 600126.SH -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_600126.SH_20260423.csv
+[2026-04-23 16:43:44] Price fetched (full) for 300604.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300604.SZ_20260423.csv
+[2026-04-23 16:43:46] Price fetched (full) for 300102.SZ -> C:\Users\38730\Desktop\ACC102\data\raw\price_daily\price_daily_int_300102.SZ_20260423.csv
+[2026-04-23 16:53:56] Model comparison built -> C:\Users\38730\Desktop\ACC102\data\model_output\model_comparison_int_20260423.json
+[2026-04-23 16:53:57] Target panel built -> C:\Users\38730\Desktop\ACC102\data\feature_store\target_panel_int_20260423.csv
+[2026-04-23 16:53:57] Baseline model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\baseline_model_summary_int_20260423.json
+[2026-04-23 16:53:59] Price panel built -> C:\Users\38730\Desktop\ACC102\data\clean\price_panel_int_20260423.csv
+[2026-04-23 16:53:59] Boosted model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\boosted_model_summary_int_20260423.json
+[2026-04-23 16:54:19] Price panel built -> C:\Users\38730\Desktop\ACC102\data\clean\price_panel_int_20260423.csv
+[2026-04-23 16:54:19] Target panel built -> C:\Users\38730\Desktop\ACC102\data\feature_store\target_panel_int_20260423.csv
+[2026-04-23 16:54:41] Feature panel built -> C:\Users\38730\Desktop\ACC102\data\feature_store\feature_panel_int_20260423.csv
+[2026-04-23 16:54:56] Feature panel built -> C:\Users\38730\Desktop\ACC102\data\feature_store\feature_panel_int_20260423.csv
+[2026-04-23 16:55:58] Model comparison built -> C:\Users\38730\Desktop\ACC102\data\model_output\model_comparison_int_20260423.json
+[2026-04-23 16:56:00] Baseline model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\baseline_model_summary_int_20260423.json
+[2026-04-23 16:56:03] Boosted model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\boosted_model_summary_int_20260423.json
+[2026-04-23 16:56:13] Model comparison built -> C:\Users\38730\Desktop\ACC102\data\model_output\model_comparison_int_20260423.json
+[2026-04-23 16:56:18] Walk-forward backtest completed -> C:\Users\38730\Desktop\ACC102\data\model_output\walk_forward_summary_int_20260423.json
+[2026-04-23 16:56:29] Feature panel built -> C:\Users\38730\Desktop\ACC102\data\feature_store\feature_panel_int_20260423.csv
+[2026-04-23 16:56:34] Macro rate fetched -> C:\Users\38730\Desktop\ACC102\data\raw\macro_rate_int_20260423.csv
+[2026-04-23 16:57:06] Feature panel built -> C:\Users\38730\Desktop\ACC102\data\feature_store\feature_panel_int_20260423.csv
+[2026-04-23 16:59:24] Model comparison built -> C:\Users\38730\Desktop\ACC102\data\model_output\model_comparison_int_20260423.json
+[2026-04-23 16:59:25] Baseline model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\baseline_model_summary_int_20260423.json
+[2026-04-23 16:59:25] Walk-forward backtest completed -> C:\Users\38730\Desktop\ACC102\data\model_output\walk_forward_summary_int_20260423.json
+[2026-04-23 16:59:28] Boosted model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\boosted_model_summary_int_20260423.json
+[2026-04-23 16:59:31] Feature panel built -> C:\Users\38730\Desktop\ACC102\data\feature_store\feature_panel_int_20260423.csv
+[2026-04-23 16:59:35] Macro rate fetched -> C:\Users\38730\Desktop\ACC102\data\raw\macro_rate_int_20260423.csv
+[2026-04-23 16:59:49] Baseline model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\baseline_model_summary_int_20260423.json
+[2026-04-23 16:59:59] Boosted model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\boosted_model_summary_int_20260423.json
+[2026-04-23 17:00:02] Model comparison built -> C:\Users\38730\Desktop\ACC102\data\model_output\model_comparison_int_20260423.json
+[2026-04-23 17:00:23] Walk-forward backtest completed -> C:\Users\38730\Desktop\ACC102\data\model_output\walk_forward_summary_int_20260423.json
+[2026-04-23 22:47:30] Model comparison built -> C:\Users\38730\Desktop\ACC102\data\model_output\model_comparison_int_20260423.json
+[2026-04-23 22:47:34] Regularized model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\regularized_model_summary_int_20260423.json
+[2026-04-23 22:49:25] Regularized walk-forward completed -> C:\Users\38730\Desktop\ACC102\data\model_output\walk_forward_regularized_summary_int_20260423.json
+[2026-04-23 22:49:41] Model comparison built -> C:\Users\38730\Desktop\ACC102\data\model_output\model_comparison_int_20260423.json
+[2026-04-24 10:47:30] Model comparison built -> C:\Users\38730\Desktop\ACC102\data\model_output\model_comparison_int_20260424.json
+[2026-04-24 10:47:43] Boosted model trained -> C:\Users\38730\Desktop\ACC102\data\model_output\boosted_model_summary_int_20260424.json
+[2026-04-24 10:48:01] Model comparison built -> C:\Users\38730\Desktop\ACC102\data\model_output\model_comparison_int_20260424.json
+[2026-04-24 10:50:33] Model comparison built -> C:\Users\38730\Desktop\ACC102\data\model_output\model_comparison_int_20260424.json
+[2026-04-24 10:58:39] Boosted walk-forward completed -> C:\Users\38730\Desktop\ACC102\data\model_output\walk_forward_boosted_summary_int_20260424.json
+[2026-04-24 11:01:17] Model comparison built -> C:\Users\38730\Desktop\ACC102\data\model_output\model_comparison_int_20260424.json
+[2026-04-24 11:19:30] Model decision artifact completed -> C:\Users\38730\Desktop\ACC102\data\model_output\model_decision_artifact_int_20260424.json

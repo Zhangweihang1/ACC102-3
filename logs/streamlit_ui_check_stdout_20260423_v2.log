@@ -1,0 +1,184 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8504
+  Network URL: http://10.8.92.9:8504
+  External URL: http://180.208.58.144:8504
+
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\scri |
+| ptrunner\exec_code.py:121 in exec_func_with_error_handling                           |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\scri |
+| ptrunner\script_runner.py:640 in code_to_exec                                        |
+|                                                                                      |
+| C:\Users\38730\Desktop\ACC102\app.py:1630 in <module>                                |
+|                                                                                      |
+|   1627                                                                               |
+|   1628                                                                               |
+|   1629 if __name__ == "__main__":                                                    |
+| > 1630     main()                                                                    |
+|   1631                                                                               |
+|                                                                                      |
+| C:\Users\38730\Desktop\ACC102\app.py:1584 in main                                    |
+|                                                                                      |
+|   1581     status_col_3.metric("Analysis Scope", analysis_scope_label)               |
+|   1582                                                                               |
+|   1583     if st.session_state["page_state"] == "Overview":                          |
+| > 1584         render_overview_page(                                                 |
+|   1585             baseline_summary=baseline_summary,                                |
+|   1586             boosted_summary=boosted_summary,                                  |
+|   1587             comparison_summary=comparison_summary,                            |
+|                                                                                      |
+| C:\Users\38730\Desktop\ACC102\app.py:818 in render_overview_page                     |
+|                                                                                      |
+|    815     st.subheader("Quick Tasks")                                               |
+|    816     task_col_1, task_col_2, task_col_3 = st.columns(3)                        |
+|    817     if task_col_1.button("Top Risk Picks Today", use_container_width=True):   |
+| >  818         navigate_to_page(page_name="Market", task_name="TOP_RISK")            |
+|    819     if task_col_2.button("Low-Liquidity High-Vol Names", use_container_width= |
+|    820         navigate_to_page(page_name="Screener", task_name="LOW_LIQ_HIGH_VOL")  |
+|    821     if task_col_3.button("Model Failure Cases", use_container_width=True):    |
+|                                                                                      |
+| C:\Users\38730\Desktop\ACC102\app.py:319 in navigate_to_page                         |
+|                                                                                      |
+|    316                                                                               |
+|    317 def navigate_to_page(page_name: str, task_name: str = "NONE") -> None:        |
+|    318     st.session_state["page_state"] = page_name                                |
+| >  319     st.session_state["page_widget"] = page_name                               |
+|    320     st.session_state["task_state"] = task_name                                |
+|    321     st.rerun()                                                                |
+|    322                                                                               |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\metr |
+| ics_util.py:410 in wrapped_func                                                      |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\stat |
+| e\session_state_proxy.py:114 in __setitem__                                          |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\stat |
+| e\safe_session_state.py:101 in __setitem__                                           |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\stat |
+| e\session_state.py:515 in __setitem__                                                |
++--------------------------------------------------------------------------------------+
+StreamlitAPIException: `st.session_state.page_widget` cannot be modified after the 
+widget with key `page_widget` is instantiated.
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\scri |
+| ptrunner\exec_code.py:121 in exec_func_with_error_handling                           |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\scri |
+| ptrunner\script_runner.py:640 in code_to_exec                                        |
+|                                                                                      |
+| C:\Users\38730\Desktop\ACC102\app.py:1630 in <module>                                |
+|                                                                                      |
+|   1627                                                                               |
+|   1628                                                                               |
+|   1629 if __name__ == "__main__":                                                    |
+| > 1630     main()                                                                    |
+|   1631                                                                               |
+|                                                                                      |
+| C:\Users\38730\Desktop\ACC102\app.py:1584 in main                                    |
+|                                                                                      |
+|   1581     status_col_3.metric("Analysis Scope", analysis_scope_label)               |
+|   1582                                                                               |
+|   1583     if st.session_state["page_state"] == "Overview":                          |
+| > 1584         render_overview_page(                                                 |
+|   1585             baseline_summary=baseline_summary,                                |
+|   1586             boosted_summary=boosted_summary,                                  |
+|   1587             comparison_summary=comparison_summary,                            |
+|                                                                                      |
+| C:\Users\38730\Desktop\ACC102\app.py:818 in render_overview_page                     |
+|                                                                                      |
+|    815     st.subheader("Quick Tasks")                                               |
+|    816     task_col_1, task_col_2, task_col_3 = st.columns(3)                        |
+|    817     if task_col_1.button("Top Risk Picks Today", use_container_width=True):   |
+| >  818         navigate_to_page(page_name="Market", task_name="TOP_RISK")            |
+|    819     if task_col_2.button("Low-Liquidity High-Vol Names", use_container_width= |
+|    820         navigate_to_page(page_name="Screener", task_name="LOW_LIQ_HIGH_VOL")  |
+|    821     if task_col_3.button("Model Failure Cases", use_container_width=True):    |
+|                                                                                      |
+| C:\Users\38730\Desktop\ACC102\app.py:319 in navigate_to_page                         |
+|                                                                                      |
+|    316                                                                               |
+|    317 def navigate_to_page(page_name: str, task_name: str = "NONE") -> None:        |
+|    318     st.session_state["page_state"] = page_name                                |
+| >  319     st.session_state["page_widget"] = page_name                               |
+|    320     st.session_state["task_state"] = task_name                                |
+|    321     st.rerun()                                                                |
+|    322                                                                               |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\metr |
+| ics_util.py:410 in wrapped_func                                                      |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\stat |
+| e\session_state_proxy.py:114 in __setitem__                                          |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\stat |
+| e\safe_session_state.py:101 in __setitem__                                           |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\stat |
+| e\session_state.py:515 in __setitem__                                                |
++--------------------------------------------------------------------------------------+
+StreamlitAPIException: `st.session_state.page_widget` cannot be modified after the 
+widget with key `page_widget` is instantiated.
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\scri |
+| ptrunner\exec_code.py:121 in exec_func_with_error_handling                           |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\scri |
+| ptrunner\script_runner.py:640 in code_to_exec                                        |
+|                                                                                      |
+| C:\Users\38730\Desktop\ACC102\app.py:1630 in <module>                                |
+|                                                                                      |
+|   1627                                                                               |
+|   1628                                                                               |
+|   1629 if __name__ == "__main__":                                                    |
+| > 1630     main()                                                                    |
+|   1631                                                                               |
+|                                                                                      |
+| C:\Users\38730\Desktop\ACC102\app.py:1584 in main                                    |
+|                                                                                      |
+|   1581     status_col_3.metric("Analysis Scope", analysis_scope_label)               |
+|   1582                                                                               |
+|   1583     if st.session_state["page_state"] == "Overview":                          |
+| > 1584         render_overview_page(                                                 |
+|   1585             baseline_summary=baseline_summary,                                |
+|   1586             boosted_summary=boosted_summary,                                  |
+|   1587             comparison_summary=comparison_summary,                            |
+|                                                                                      |
+| C:\Users\38730\Desktop\ACC102\app.py:818 in render_overview_page                     |
+|                                                                                      |
+|    815     st.subheader("Quick Tasks")                                               |
+|    816     task_col_1, task_col_2, task_col_3 = st.columns(3)                        |
+|    817     if task_col_1.button("Top Risk Picks Today", use_container_width=True):   |
+| >  818         navigate_to_page(page_name="Market", task_name="TOP_RISK")            |
+|    819     if task_col_2.button("Low-Liquidity High-Vol Names", use_container_width= |
+|    820         navigate_to_page(page_name="Screener", task_name="LOW_LIQ_HIGH_VOL")  |
+|    821     if task_col_3.button("Model Failure Cases", use_container_width=True):    |
+|                                                                                      |
+| C:\Users\38730\Desktop\ACC102\app.py:319 in navigate_to_page                         |
+|                                                                                      |
+|    316                                                                               |
+|    317 def navigate_to_page(page_name: str, task_name: str = "NONE") -> None:        |
+|    318     st.session_state["page_state"] = page_name                                |
+| >  319     st.session_state["page_widget"] = page_name                               |
+|    320     st.session_state["task_state"] = task_name                                |
+|    321     st.rerun()                                                                |
+|    322                                                                               |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\metr |
+| ics_util.py:410 in wrapped_func                                                      |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\stat |
+| e\session_state_proxy.py:114 in __setitem__                                          |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\stat |
+| e\safe_session_state.py:101 in __setitem__                                           |
+|                                                                                      |
+| C:\Users\38730\AppData\Roaming\Python\Python313\site-packages\streamlit\runtime\stat |
+| e\session_state.py:515 in __setitem__                                                |
++--------------------------------------------------------------------------------------+
+StreamlitAPIException: `st.session_state.page_widget` cannot be modified after the 
+widget with key `page_widget` is instantiated.
